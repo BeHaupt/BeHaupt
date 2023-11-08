@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BeHaupt
 - 👀 I’m interested in become a developer.
-- 🌱 I’m currently learning Node.js on YouTube.
+- 🌱 I’m currently learning Html e Css on YouTube.
 
 
 <!---
